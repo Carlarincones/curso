@@ -1,4 +1,4 @@
-curso
+curso Git
 =====
 
 curso avanzado
